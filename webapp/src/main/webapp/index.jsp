@@ -33,9 +33,10 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning bye!!!  </h1>
+   <h1> Thankyou, Happy Learning bye!!! Deployment on Docker Completed!!! </h1>
    
-   <h1> Astalavista bae!!! !!!HOHOHOHO-LIMA!!!!!!!</h1>
+   <h1> !!!!! Astalavista bae!!!!!</h1>
+   
 
   
 </form>
